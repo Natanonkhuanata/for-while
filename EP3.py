@@ -11,4 +11,7 @@ if x <10:
         x += 2
         if x % 2 ==  0:
             print(x)
+        else:
+            print("Error")
+        
 
