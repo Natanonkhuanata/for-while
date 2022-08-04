@@ -9,4 +9,4 @@ for i in range(1,5):
     sum += num
 
 print(sum)
-print(sum/4)
+print("ค่าเฉลี่ย =",sum/4)
