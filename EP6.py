@@ -1,6 +1,4 @@
 """
 เขียนตามควายบอก
 """
-
-x = int(input("lllll >>>>"))
-print(x)
+print("z")
